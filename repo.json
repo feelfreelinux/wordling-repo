@@ -5,7 +5,7 @@
 	"repository": [{
 		"title": "Wordpack #1",
 		"name": "first",
-		"path": "/mixed/first.json",
+		"path": "/wordpacks/mixed/first.json",
 		"origin": "pl",
 		"translate": "en"
 	}]
