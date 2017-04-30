@@ -1,7 +1,7 @@
 {
 	"title": "First Repository",
 	"name": "repo1",
-	"url": "https://feelfreelinux.github.io/wordling-repo/repo.json",
+	"url": "https://feelfreelinux.github.io/wordling-repo",
 	"repository": [{
 		"title": "Wordpack #1",
 		"name": "first",
