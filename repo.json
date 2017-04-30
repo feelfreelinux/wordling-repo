@@ -1,7 +1,11 @@
-[{
-	"title": "Wordpack #1",
-	"name": "first",
-	"path": "/mixed/first.json",
-	"origin": "pl",
-	"translate": "en"
-}]
+{
+	"title": "First Repository",
+	"name": "repo1",
+	"repository": [{
+		"title": "Wordpack #1",
+		"name": "first",
+		"path": "/mixed/first.json",
+		"origin": "pl",
+		"translate": "en"
+	}]
+}
