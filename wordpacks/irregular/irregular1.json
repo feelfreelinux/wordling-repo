@@ -1,0 +1,35 @@
+{
+	"version": "0.1",
+	"name": "irregular1",
+	"title": "Irregular #1",
+	"from": "pl",
+	"to": "en",
+	"pack": [{
+			"pl": [
+				"być",
+				"2 forma"
+			],
+			"en": [
+				"became"
+			]
+		},
+		{
+			"pl": [
+				"kupić",
+				"2 forma"
+			],
+			"en": [
+				"bought"
+			]
+		},
+		{
+			"pl": [
+				"ciąć",
+				"2 forma"
+			],
+			"en": [
+				"cut"
+			]
+		}
+	]
+}
