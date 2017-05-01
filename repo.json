@@ -10,9 +10,9 @@
 			"translate": "en"
 		},
 		{
-			"title": "Inregular #1",
-			"name": "inregular",
-			"path": "/wordpacks/inregular/inregular1.json",
+			"title": "Irregular #1",
+			"name": "irregular",
+			"path": "/wordpacks/irregular/irregular1.json",
 			"origin": "pl",
 			"translate": "en"
 		}
