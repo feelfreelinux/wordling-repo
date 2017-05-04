@@ -1,33 +1,32 @@
 {
-	"version": "0.1",
-	"name": "irregular1",
 	"title": "Irregular #1",
+    "description": "Few 2nd form irregular verbs"
 	"from": "pl",
 	"to": "en",
 	"pack": [{
-			"pl": [
+			"from": [
 				"być",
 				"2 forma"
 			],
-			"en": [
+			"to": [
 				"became"
 			]
 		},
 		{
-			"pl": [
+			"from": [
 				"kupić",
 				"2 forma"
 			],
-			"en": [
+			"to": [
 				"bought"
 			]
 		},
 		{
-			"pl": [
+			"from": [
 				"ciąć",
 				"2 forma"
 			],
-			"en": [
+			"to": [
 				"cut"
 			]
 		}
