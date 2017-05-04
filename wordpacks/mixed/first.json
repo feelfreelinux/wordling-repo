@@ -1,761 +1,751 @@
 {
-   "version":"0.1",
-   "name": "first",
    "title": "First Wordpack",
-   "from": "pl",
-   "to": "en",
+   "description": "Sample text",
+   "from": "from",
+   "to": "to",
    "pack":[
       {
-         "pl":[
-            "posi\u0142ek"
+         "from":[
+            "posiłek"
          ],
-         "en":[
+         "to":[
             "meal"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zawiera",
-            "uwzgl\u0119dnia",
+            "uwzględnia",
             "obejmuje"
          ],
-         "en":[
+         "to":[
             "includes"
          ]
       },
       {
-         "pl":[
-            "pr\u00f3buj\u0105",
-            "staraj\u0105",
-            "spr\u00f3buj"
+         "from":[
+            "próbują",
+            "starają",
+            "spróbuj"
          ],
-         "en":[
+         "to":[
             "try"
          ]
       },
       {
-         "pl":[
+         "from":[
             "potrzebuje",
             "potrzeby",
             "musi"
          ],
-         "en":[
+         "to":[
             "needs"
          ]
       },
       {
-         "pl":[
-            "zadaj\u0119",
+         "from":[
+            "zadaję",
             "pytam",
-            "popro\u015b"
+            "poproś"
          ],
-         "en":[
+         "to":[
             "ask"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zaznaczenie",
-            "zaznacz",
-            "marek"
+            "marek",
+            "ocena"
          ],
-         "en":[
+         "to":[
             "mark"
          ]
       },
       {
-         "pl":[
-            "\u017cyczenie",
-            "chc\u0119",
-            "ch\u0119\u0107"
+         "from":[
+            "życzenie",
+            "chcę",
+            "chęć"
          ],
-         "en":[
+         "to":[
             "wish"
          ]
       },
       {
-         "pl":[
-            "czuj\u0105"
+         "from":[
+            "czują"
          ],
-         "en":[
+         "to":[
             "feel"
          ]
       },
       {
-         "pl":[
+         "from":[
             "podaj",
             "podajcie",
             "podajesz"
          ],
-         "en":[
+         "to":[
             "pass"
          ]
       },
       {
-         "pl":[
-            "wychowuj\u0105",
+         "from":[
+            "wychowują",
             "wychowujemy",
             "wychowujecie",
-            "podnie\u015b\u0107"
+            "podnieść"
          ],
-         "en":[
+         "to":[
             "raise"
          ]
       },
       {
-         "pl":[
-            "mam nadziej\u0119",
-            "mie\u0107 nadziej\u0119"
+         "from":[
+            "mam nadzieję",
+            "mieć nadzieję"
          ],
-         "en":[
+         "to":[
             "I hope"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zawodzisz",
-            "nie zdaj\u0105",
-            "zawodz\u0105"
+            "nie zdają",
+            "zawodzą"
          ],
-         "en":[
+         "to":[
             "fail"
          ]
       },
       {
-         "pl":[
+         "from":[
             "uwierzysz",
-            "wierz\u0119",
+            "wierzę",
             "wierzycie"
          ],
-         "en":[
+         "to":[
             "believe"
          ]
       },
       {
-         "pl":[
-            "pod\u0105\u017caj\u0105"
+         "from":[
+            "podążają"
          ],
-         "en":[
+         "to":[
             "follow"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zabiera",
             "bierze"
          ],
-         "en":[
+         "to":[
             "takes"
          ]
       },
       {
-         "pl":[
-            "wydaje si\u0119",
-            "zdaje si\u0119",
+         "from":[
+            "wydaje się",
+            "zdaje się",
             "wydaje"
          ],
-         "en":[
+         "to":[
             "seems"
          ]
       },
       {
-         "pl":[
-            "uwa\u017cam",
-            "rozwa\u017cania",
-            "rozwa\u017c"
+         "from":[
+            "uważam",
+            "rozważania",
+            "rozważ"
          ],
-         "en":[
+         "to":[
             "consider"
          ]
       },
       {
-         "pl":[
+         "from":[
             "pochodzi"
          ],
-         "en":[
+         "to":[
             "comes"
          ]
       },
       {
-         "pl":[
-            "rozwa\u017cania to"
+         "from":[
+            "główny",
+            "główne"
          ],
-         "en":[
-            "consider"
-         ]
-      },
-      {
-         "pl":[
-            "g\u0142\u00f3wny",
-            "g\u0142\u00f3wne"
-         ],
-         "en":[
+         "to":[
             "main"
          ]
       },
       {
-         "pl":[
-            "w\u0142asnego",
+         "from":[
+            "własnego",
             "swojego"
          ],
-         "en":[
+         "to":[
             "own"
          ]
       },
       {
-         "pl":[
+         "from":[
             "nowe",
             "niedawny",
             "nowa"
          ],
-         "en":[
+         "to":[
             "recent"
          ]
       },
       {
-         "pl":[
-            "wa\u017cny",
-            "znacz\u0105cy"
+         "from":[
+            "ważny",
+            "znaczący"
          ],
-         "en":[
+         "to":[
             "important"
          ]
       },
       {
-         "pl":[
-            "dost\u0119pny"
+         "from":[
+            "dostępne"
          ],
-         "en":[
+         "to":[
             "available"
          ]
       },
       {
-         "pl":[
+         "from":[
             "konieczne",
-            "potrzebuje,ebne",
-            "niezb\u0119dne"
+            "potrzebne",
+            "niezbędne"
          ],
-         "en":[
+         "to":[
             "necessary"
          ]
       },
       {
-         "pl":[
+         "from":[
             "odpowiedzialny",
             "odpowiedzialnym"
          ],
-         "en":[
+         "to":[
             "responsible"
          ]
       },
       {
-         "pl":[
-            "niezale\u017cna",
+         "from":[
+            "niezależna",
             "samodzielna",
-            "niepodleg\u0142a"
+            "niepodległa"
          ],
-         "en":[
+         "to":[
             "independent"
          ]
       },
       {
-         "pl":[
-            "ca\u0142\u0105",
-            "ca\u0142ego"
+         "from":[
+            "całkiem",
+            "cały"
          ],
-         "en":[
+         "to":[
             "whole"
          ]
       },
       {
-         "pl":[
-            "odpowied\u017a"
+         "from":[
+            "odpowiedź"
          ],
-         "en":[
+         "to":[
             "answer"
          ]
       },
       {
-         "pl":[
-            "wspania\u0142e"
+         "from":[
+            "wspaniałee"
          ],
-         "en":[
+         "to":[
             "excellent"
          ]
       },
       {
-         "pl":[
-            "myli si\u0119",
-            "jest nie w porz\u0105dku"
+         "from":[
+            "myli się",
+            "jest nie w porządku"
          ],
-         "en":[
+         "to":[
             "wrong"
          ]
       },
       {
-         "pl":[
-            "powa\u017cny"
+         "from":[
+            "poważny"
          ],
-         "en":[
+         "to":[
             "serious"
          ]
       },
       {
-         "pl":[
+         "from":[
             "wydajny",
             "sprawny"
          ],
-         "en":[
+         "to":[
             "efficient"
          ]
       },
       {
-         "pl":[
-            "s\u0142ynnym",
-            "s\u0142awnym"
+         "from":[
+            "sławny"
          ],
-         "en":[
+         "to":[
             "famous"
          ]
       },
       {
-         "pl":[
-            "znany",
+         "from":[
+            "znany ci",
             "znajomy",
             "znane"
          ],
-         "en":[
+         "to":[
             "familiar"
          ]
       },
       {
-         "pl":[
-            "drogie",
-            "droga"
-         ],
-         "en":[
-            "expensive"
-         ]
-      },
-      {
-         "pl":[
+         "from":[
             "lub",
             "czy"
          ],
-         "en":[
+         "to":[
             "or"
          ]
       },
       {
-         "pl":[
-            "u\u017cywamy"
+         "from":[
+            "używać"
          ],
-         "en":[
+         "to":[
             "use"
          ]
       },
       {
-         "pl":[
+         "from":[
             "smutny",
             "smutni"
          ],
-         "en":[
+         "to":[
             "sad"
          ]
       },
       {
-         "pl":[
+         "from":[
             "naprzeciwko"
          ],
-         "en":[
+         "to":[
             "opposite"
          ]
       },
       {
-         "pl":[
-            "boisz si\u0119"
+         "from":[
+            "bać się"
          ],
-         "en":[
+         "to":[
             "afraid"
          ]
       },
       {
-         "pl":[
-            "cz\u0119sty"
+         "from":[
+            "częsty"
          ],
-         "en":[
+         "to":[
             "frequent"
          ]
       },
       {
-         "pl":[
+         "from":[
             "drewniany",
             "z drewna"
          ],
-         "en":[
+         "to":[
             "wooden"
          ]
       },
       {
-         "pl":[
+         "from":[
             "podczas"
          ],
-         "en":[
+         "to":[
             "during"
          ]
       },
       {
-         "pl":[
+         "from":[
             "odpoczynek"
          ],
-         "en":[
+         "to":[
             "rest"
          ]
       },
       {
-         "pl":[
-            "ca\u0142kiem",
-            "\u0142adna"
+         "from":[
+            "całkiem",
+            "ładna"
          ],
-         "en":[
+         "to":[
             "pretty"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zawsze"
          ],
-         "en":[
+         "to":[
             "always"
          ]
       },
       {
-         "pl":[
+         "from":[
             "w takim razie",
             "wtedy",
             "to"
          ],
-         "en":[
+         "to":[
             "then"
          ]
       },
       {
-         "pl":[
-            "te\u017c ",
-            "tak\u017ce",
-            "r\u00f3wnie\u017c"
+         "from":[
+            "też",
+            "także",
+            "również"
          ],
-         "en":[
+         "to":[
             "also"
          ]
       },
       {
-         "pl":[
+         "from":[
             "raz",
-            "kiedy\u015b"
+            "kiedyś"
          ],
-         "en":[
+         "to":[
             "once"
          ]
       },
       {
-         "pl":[
+         "from":[
             "nawet",
             "jeszcze"
          ],
-         "en":[
+         "to":[
             "even"
          ]
       },
       {
-         "pl":[
-            "dok\u0142adnie",
-            "we w\u0142a\u015bciwym",
-            "w\u0142a\u015bnie"
+         "from":[
+            "dokładnie",
+            "dopiero co",
+            "tylko"
          ],
-         "en":[
+         "to":[
             "just"
          ]
       },
       {
-         "pl":[
-            "jednak\u017ce",
+         "from":[
+            "jednakże",
             "jednak",
-            "wszak\u017ce"
+            "wszakże"
          ],
-         "en":[
+         "to":[
             "however"
          ]
       },
       {
-         "pl":[
+         "from":[
             "za drogie"
          ],
-         "en":[
+         "to":[
             "expensive"
          ]
       },
       {
-         "pl":[
+         "from":[
             "jeszcze",
             "nadal",
-            "wci\u0105\u017c",
-            "ci\u0105gle"
+            "wciąż",
+            "ciągle"
          ],
-         "en":[
+         "to":[
             "still"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zawsze"
          ],
-         "en":[
+         "to":[
             "ever"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zabierz",
             "daleko",
             "z dala"
          ],
-         "en":[
+         "to":[
             "away"
          ]
       },
       {
-         "pl":[
+         "from":[
             "jeszcze"
          ],
-         "en":[
+         "to":[
             "yet"
          ]
       },
       {
-         "pl":[
-            "ju\u017c"
+         "from":[
+            "już"
          ],
-         "en":[
+         "to":[
             "already"
          ]
       },
       {
-         "pl":[
-            "dosy\u0107"
+         "from":[
+            "dosyć"
          ],
-         "en":[
+         "to":[
             "enough"
          ]
       },
       {
-         "pl":[
-            "wkr\u00f3tce",
+         "from":[
+            "wkrótce",
             "niebawem",
             "zaraz"
          ],
-         "en":[
+         "to":[
             "soon"
          ]
       },
       {
-         "pl":[
+         "from":[
             "obecnie",
             "aktualnie"
          ],
-         "en":[
+         "to":[
             "currently"
          ]
       },
       {
-         "pl":[
+         "from":[
+            "w sumie",
+            "faktycznie"
+         ],
+         "to":[
+            "actually"
+         ]
+      },
+      {
+         "from":[
             "daleko"
          ],
-         "en":[
+         "to":[
             "far"
          ]
       },
       {
-         "pl":[
+         "from":[
             "jeszcze",
             "innego"
          ],
-         "en":[
+         "to":[
             "else"
          ]
       },
       {
-         "pl":[
+         "from":[
             "zazwyczaj",
             "zwykle"
          ],
-         "en":[
+         "to":[
             "usually"
          ]
       },
       {
-         "pl":[
+         "from":[
             "obecnie"
          ],
-         "en":[
+         "to":[
             "nowadays"
          ]
       },
       {
-         "pl":[
+         "from":[
             "prawie",
             "blisko",
             "niemal"
          ],
-         "en":[
+         "to":[
             "almost"
          ]
       },
       {
-         "pl":[
-            "p\u00f3\u017ano"
+         "from":[
+            "późno"
          ],
-         "en":[
+         "to":[
             "late"
          ]
       },
       {
-         "pl":[
-            "z \u0142atwo\u015bci\u0105",
+         "from":[
+            "z łatwością",
             "bez trudu"
          ],
-         "en":[
+         "to":[
             "easily"
          ]
       },
       {
-         "pl":[
-            "g\u0142\u00f3wnie"
+         "from":[
+            "głównie"
          ],
-         "en":[
+         "to":[
             "generally"
          ]
       },
       {
-         "pl":[
+         "from":[
             "nareszcie",
             "wreszcie",
-            "w ko\u0144cu"
+            "w końcu"
          ],
-         "en":[
+         "to":[
             "finally"
          ]
       },
       {
-         "pl":[
-            "dok\u0142adnie"
+         "from":[
+            "dokładnie"
          ],
-         "en":[
+         "to":[
             "exactly"
          ]
       },
       {
-         "pl":[
+         "from":[
             "dwa razy"
          ],
-         "en":[
+         "to":[
             "twice"
          ]
       },
       {
-         "pl":[
-            "w przybli\u017ceniu"
+         "from":[
+            "w przybliżeniu"
          ],
-         "en":[
+         "to":[
             "approximately"
          ]
       },
       {
-         "pl":[
-            "zupe\u0142nie",
-            "ca\u0142kowicie"
+         "from":[
+            "zupełnie",
+            "całkowicie"
          ],
-         "en":[
+         "to":[
             "perfectly"
          ]
       },
       {
-         "pl":[
+         "from":[
             "koniecznie"
          ],
-         "en":[
+         "to":[
             "necessarily"
          ]
       },
       {
-         "pl":[
+         "from":[
             "ani"
          ],
-         "en":[
+         "to":[
             "neither"
          ]
       },
       {
-         "pl":[
-            "ani te\u017c"
+         "from":[
+            "ani też"
          ],
-         "en":[
-            "nor "
+         "to":[
+            "nor"
          ]
       },
       {
-         "pl":[
-            "zjad\u0142"
+         "from":[
+            "zjadł"
          ],
-         "en":[
+         "to":[
             "ate"
          ]
       },
       {
-         "pl":[
-            "wr\u00f3ci\u0142"
+         "from":[
+            "był"
          ],
-         "en":[
+         "to":[
             "were"
          ]
       },
       {
-         "pl":[
-            "rozmawia\u0142em"
+         "from":[
+            "rozmawiałem"
          ],
-         "en":[
+         "to":[
             "spoke"
          ]
       },
       {
-         "pl":[
+         "from":[
             "ich"
          ],
-         "en":[
+         "to":[
             "their"
          ]
       },
       {
-         "pl":[
+         "from":[
             "nasza"
          ],
-         "en":[
+         "to":[
             "our"
          ]
       },
       {
-         "pl":[
+         "from":[
             "nosi"
          ],
-         "en":[
+         "to":[
             "wears"
          ]
       },
       {
-         "pl":[
-            "znajduj\u0105"
+         "from":[
+            "znajdują"
          ],
-         "en":[
+         "to":[
             "find"
          ]
       }
