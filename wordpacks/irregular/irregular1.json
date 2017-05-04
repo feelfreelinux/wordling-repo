@@ -1,34 +1,31 @@
 {
-	"title": "Irregular #1",
-	"description": "Few 2nd form irregular verbs",
-	"from": "pl",
-	"to": "en",
-	"pack": [{
-			"from": [
-				"być",
-				"2 forma"
-			],
-			"to": [
-				"became"
-			]
-		},
-		{
-			"from": [
-				"kupić",
-				"2 forma"
-			],
-			"to": [
-				"bought"
-			]
-		},
-		{
-			"from": [
-				"ciąć",
-				"2 forma"
-			],
-			"to": [
-				"cut"
-			]
-		}
-	]
+   "title": "Irregular #1",
+   "description": "Few irregular verbs",
+   "from": "pl",
+   "to": "en",
+   "pack":[
+      {
+         "from":[
+            "być"
+         ],
+         "to":[
+            "became"
+         ]
+      },
+      {
+         "from":[
+            "ciąć"
+         ],
+         "to":[
+            "cut"
+         ]
+      },
+      {
+         "from":[
+            "kupił"
+         ],
+         "to":[
+            "bought"
+         ]
+      }
 }
