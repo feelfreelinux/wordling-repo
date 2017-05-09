@@ -1,0 +1,174 @@
+{
+	"title": "Niemiecki: Czasowniki",
+	"description": "Kilka niemieckich czasowników",
+	"from": "pl",
+	"to": "de",
+	"pack": [{
+			"from": [
+				"piec"
+			],
+			"to": [
+				"backen"
+			]
+		},
+		{
+			"from": [
+				"rozkazywać"
+			],
+			"to": [
+				"befehlen"
+			]
+		},
+		{
+			"from": [
+				"oferować"
+			],
+			"to": [
+				"bieten"
+			]
+		},
+		{
+			"from": [
+				"prosić"
+			],
+			"to": [
+				"bitten"
+			]
+		},
+		{
+			"from": [
+				"zaczynać się"
+			],
+			"to": [
+				"beginnen"
+			]
+		},
+		{
+			"from": [
+				"zostawać"
+			],
+			"to": [
+				"bleiben"
+			]
+		},
+		{
+			"from": [
+				"przynosić"
+			],
+			"to": [
+				"bringen"
+			]
+		},
+		{
+			"from": [
+				"myśleć"
+			],
+			"to": [
+				"denken"
+			]
+		},
+		{
+			"from": [
+				"polecać"
+			],
+			"to": [
+				"empfehlen"
+			]
+		},
+		{
+			"from": [
+				"mieć pozwolenie"
+			],
+			"to": [
+				"dürfen"
+			]
+		},
+		{
+			"from": [
+				"jeść"
+			],
+			"to": [
+				"essen"
+			]
+		}, {
+			"from": [
+				"jechać, jeździć"
+			],
+			"to": [
+				"fahren"
+			]
+		}, {
+			"from": [
+				"łapać"
+			],
+			"to": [
+				"fangen"
+			]
+		}, {
+			"from": [
+				"znajdować"
+			],
+			"to": [
+				"finden"
+			]
+		}, {
+			"from": [
+				"latać"
+			],
+			"to": [
+				"fliegen"
+			]
+		}, {
+			"from": [
+				"marznąć"
+			],
+			"to": [
+				"frieren"
+			]
+		}, {
+			"from": [
+				"dawać"
+			],
+			"to": [
+				"geben"
+			]
+		}, {
+			"from": [
+				"podobać się"
+			],
+			"to": [
+				"gefallen"
+			]
+		}, {
+			"from": [
+				"udać się"
+			],
+			"to": [
+				"gelingen"
+			]
+		}, {
+			"from": [
+				"płynąć"
+			],
+			"to": [
+				"fließen"
+			]
+		},
+		{
+			"from": [
+				"wydarzać się"
+			],
+			"to": [
+				"geschehen"
+			]
+		},
+		{
+			"from": [
+				"iść"
+			],
+			"to": [
+				"gehen"
+			]
+		}
+	]
+}
